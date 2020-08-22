@@ -1,6 +1,13 @@
 # Use of Git
 
-## Write commit title with its description 
+## Write simple commit
+```sh
+git status
+git add .
+git commit -am "Title here"
+```
+
+## Write commit title with its description
 
 ```sh
 git status
@@ -18,7 +25,7 @@ Press <kbd>ESC</kbd> after writing commit message now close the Vim editor with 
 git push origin master
 ```
 
-## Fetch from git repository 
+## Fetch from git repository
 From github
 
 ## How do I force “git pull” to overwrite local files?
