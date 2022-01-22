@@ -1,3 +1,7 @@
+# App Privacy Policy Generator
+
+[Generate a generic Privacy Policy and Terms & Conditions for apps](https://app-privacy-policy-generator.nisrulz.com/)
+
 # Use of Git
 
 ## Write simple commit
