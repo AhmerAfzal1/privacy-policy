@@ -1,51 +1,65 @@
+**Privacy Policy**
 
-## Privacy Policy
+Ahmer Afzal built the Rose English Books app as an Ad Supported app. This SERVICE is provided by Ahmer Afzal at no cost and is intended for use as is.
 
-At Ahmer Afzal we recognize that privacy is significant. This Privacy Policy applies to all apps (Android & IOS) under the publisher name of “Ahmer Afzal”. We has created this Policy to explain our privacy practices so you can understand what information about you is collected, used and disclosed. We collect information from you in order to provide corresponding service and better user experience. With your consent of this Privacy Policy, your usage, statistics, input while using our apps would be collected.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-## INFORMATION WE COLLECT
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-Generally. We may collect personal information from our users in order to provide you with a personalized, useful and efficient experience. The categories of information we collect can include: Social network's personal information and device's gallery pictures.
-Non-personal identification. We may collect non-personal identification information about installed applications, application usage information and device information. The information you give us, for example, when you give us your opinions to our application and services via our feedback channel, such as your email address, and names.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Rose English Books unless otherwise defined in this Privacy Policy.
 
-## HOW WE USE COLLECTED INFORMATION
+**Information Collection and Use**
 
-We may use your information only for serving you better as below:
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
- - To personalize user experience;
- - To help develop our service- We may use Non- Personal Information to provide, maintain, improve and develop our services;
- - We may collect your non-personal information and use them for market and promotion purpose, for example, we may promote or recommend more relevant apps to you.
+The app does use third-party services that may collect information used to identify you.
 
-We use this information to operate, maintain, and provide to you the features and functionality of our Apps, as well as to communicate directly with you, such as to send you email messages and push notifications. We may also send you Service-related emails or messages (e.g., account verification, order confirmations, change or updates to features of our apps, technical and security notices).
+Link to the privacy policy of third-party service providers used by the app
 
-## HOW YOUR INFORMATION MAY BE DISCLOSED
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-Personal Information. We do not store Personal Information and therefore we do not disclose your Personal Information.
-Non-Personal Information. We do not combine Non-Personal Information with Personal Information (such as combining your name with your unique User Device number).
-We may disclose your non-personal information for promotion purpose to our trusted partners who shall comply with this privacy policy and the relevant privacy laws.
+**Log Data**
 
-## THIRD- PARTY SITES
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-In general, the Applications, the Services and the Site access third party information (such as your Facebook account information) through application interfaces. We may provide links to third-party Web sites, such as Facebook, as a service to our Users. The Site may also carry advertisements from other companies. When you click on links of third parties in an Application, the Services or the Site, you may leave the Application, the Services or the Site. Some of these third party sites may be co-branded with our name/logo or our affiliated entity's name/logo, even though they are not operated or maintained by us. This Policy does not address, and we are not responsible for, the privacy practices of Web sites operated by third parties, whether they are linked to or otherwise accessible from an Application, the Services or the Site. The inclusion of a link or accessibility of third party Websites does not imply endorsement of such third party Website by us.
+**Cookies**
 
-## USERS WITH WHOM YOU SHARE YOUR INFORMATION
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-We cannot control the actions of other Users with whom you share your information. We cannot, and do not, control the information you share with other Users using an Application, the Services or the Site (including via Forums) or how such other Users will use or share such information. We are not responsible for third party circumvention of our security measures.
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-## SECURITY
+**Service Providers**
 
-We are very concerned about safeguarding the confidentiality of your information. We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
+I may employ third-party companies and individuals due to the following reasons:
 
-## SENSITIVE INFORMATION
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-We ask that you not send us, and you not to disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientation, criminal background or membership in past organizations, including trade union memberships) on or through an Application, the Services or the Site or otherwise to us.
-CHANGES TO THIS PRIVACY POLICY
-Our Privacy Policy may change from time to time, we will post any privacy policy changes on this page, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances.
-If you do not agree to any modifications to this Policy, your sole recourse is to immediately stop all use of all Applications, the Services and the Site. Your continued use of any Application, the Services or the Site following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy. Please note that none of our employees or agents has the authority to vary any of our Policies.
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-## Contact Us
+**Security**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ahmerafzal@yahoo.com.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-Thank You
+**Links to Other Sites**
 
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2018-01-01
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ahmerafzal@yahoo.com
